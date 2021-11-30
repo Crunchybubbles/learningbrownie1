@@ -6,7 +6,4 @@ contract Helloworld {
   function setgreet(string memory _mess) public {
     greeting = _mess;
   }
-
-
-
 }
